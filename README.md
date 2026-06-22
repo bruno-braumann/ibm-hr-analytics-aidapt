@@ -129,19 +129,19 @@ Three-page dashboard built in Power BI Desktop (version 2.148.878.0, October 202
 
 ### Slide 1, Demographic Composition and Diversity
 
-![Slide 1](powerbi/screenshots/slide1_demographic_composition.png)
+![Slide 1](https://raw.githubusercontent.com/bruno-braumann/ibm-hr-analytics-aidapt/main/slide1_demographic_composition.png)
 
 Gender distribution, job level breakdown, generational analysis, retirement risk by role, average salary by role and gender, and satisfaction by department.
 
 ### Slide 2, Well-Being, Performance and Ping Pong Impact
 
-![Slide 2](powerbi/screenshots/slide2_wellbeing_performance_pingpong.png)
+![Slide 2](https://raw.githubusercontent.com/bruno-braumann/ibm-hr-analytics-aidapt/main/slide2_wellbeing_performance_pingpong.png
 
 Before/after satisfaction comparison across 5 dimensions (environment, job satisfaction, relationships, work-life balance, engagement), scatter plots for satisfaction vs performance and salary increase vs performance.
 
 ### Slide 3, From Analysis to Decision
 
-![Slide 3](powerbi/screenshots/slide3_analysis_to_decision.png)
+![Slide 3](https://raw.githubusercontent.com/bruno-braumann/ibm-hr-analytics-aidapt/main/slide3_analysis_to_decision.png)
 
 Distance vs satisfaction, turnover by department and generation, attrition patterns by tenure, salary distribution, retirement risk by department, and strategic recommendations.
 
