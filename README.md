@@ -135,7 +135,7 @@ Gender distribution, job level breakdown, generational analysis, retirement risk
 
 ### Slide 2, Well-Being, Performance and Ping Pong Impact
 
-![Slide 2](https://raw.githubusercontent.com/bruno-braumann/ibm-hr-analytics-aidapt/main/slide2_wellbeing_performance_pingpong.png
+![Slide 2](https://raw.githubusercontent.com/bruno-braumann/ibm-hr-analytics-aidapt/main/slide2_wellbeing_performance_pingpong.png)
 
 Before/after satisfaction comparison across 5 dimensions (environment, job satisfaction, relationships, work-life balance, engagement), scatter plots for satisfaction vs performance and salary increase vs performance.
 
